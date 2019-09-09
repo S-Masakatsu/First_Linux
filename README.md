@@ -22,7 +22,7 @@
 
 インストール方法は下記を参照
 
-- <a href="./Install/README.md">CentOS 7のインストール</a>
+- <a href="./Install/centos/README.md">CentOS 7のインストール</a>
 
 ## ■ シェルとコマンド
 
