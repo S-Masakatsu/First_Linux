@@ -10,27 +10,27 @@
 1. 新規作成をする  
     名前を`CentOS`にするとタイプとバージョンを自動設定してくれる。
 
-    <img src="../../images/install/install01.png">
+    <img src="../../images/install/centOS/install01.png">
 
 1. メモリーサイズの指定  
 
-    <img src="../../images/install/install02.png">
+    <img src="../../images/install/centOS/install02.png">
 
 1. 仮想ハードディスクを作成するを選択する
 
-    <img src="../../images/install/install03.png">
+    <img src="../../images/install/centOS/install03.png">
 
 1. VDIを選択する
 
-    <img src="../../images/install/install04.png">
+    <img src="../../images/install/centOS/install04.png">
 
 1. 固定サイズを選択する
 
-    <img src="../../images/install/install05.png">
+    <img src="../../images/install/centOS/install05.png">
 
 1. ファイルの場所とサイズはそのままにする
 
-    <img src="../../images/install/install06.png">
+    <img src="../../images/install/centOS/install06.png">
 
 1. 作成すれば終了
 
@@ -40,38 +40,38 @@ macからssh接続できるように、ホストオンリーネットワーク�
 
 1. VirtualBoxのメニューバー → ファイル → ホストネットワークマネージャーを選択
 
-    <img src="../../images/install/install07.png">
+    <img src="../../images/install/centOS/install07.png">
 
 1. アダプターを手動で設定にチェックを付け、IPv4アドレスを`192.168.56.1`にする
 
-    <img src="../../images/install/install08.png">
+    <img src="../../images/install/centOS/install08.png">
 
 1. VMの設定 → ネットワーク → アダプター1にブリッジアダプターを設定する
 
-    <img src="../../images/install/install09.png">
+    <img src="../../images/install/centOS/install09.png">
 
 1. VMの設定 → ネットワーク → アダプター2にホストオンリーアダプターを設定する
 
-    <img src="../../images/install/install10.png">
+    <img src="../../images/install/centOS/install10.png">
 
 
 ## ３. CentOSのインストール
 
 1. VMを起動して、CentOSをインストールする
 
-    <img src="../../images/install/install11.png">
+    <img src="../../images/install/centOS/install11.png">
 
 1. Install CentOS 7を選択してEnterを押す
 
 1. 日本語を選択する
 
-    <img src="../../images/install/install12.png">
+    <img src="../../images/install/centOS/install12.png">
 
 1. インストール先を選択し、何も変更せず完了をする
 
-    <img src="../../images/install/install13.png">
+    <img src="../../images/install/centOS/install13.png">
 
-    <img src="../../images/install/install14.png">
+    <img src="../../images/install/centOS/install14.png">
 
 1. インストールを開始する
 
@@ -81,7 +81,7 @@ macからssh接続できるように、ホストオンリーネットワーク�
 
 1. rootユーザーでログインする
 
-    <img src="../../images/install/install15.png">
+    <img src="../../images/install/centOS/install15.png">
 
 1. nmtuiコマンドを実行して、Edit a connectionを選択
 
@@ -89,28 +89,28 @@ macからssh接続できるように、ホストオンリーネットワーク�
     $ nmtui
     ```
 
-    <img src="../../images/install/install16.png">
+    <img src="../../images/install/centOS/install16.png">
 
 1. enp0s3を選択
 
-    <img src="../../images/install/install17.png">
+    <img src="../../images/install/centOS/install17.png">
 
 1. IPv６をIgnoreに変更、Automatically connectにチェックを付ける
 
-    <img src="../../images/install/install18.png">
+    <img src="../../images/install/centOS/install18.png">
 
 1. enp0s8を選択
 
-    <img src="../../images/install/install19.png">
+    <img src="../../images/install/centOS/install19.png">
 
 1. Ipv4 CONFIGURATIONをManualに変更し、Addressesを192.168.56.101/24にする(101は任意の数字でOK)  
     同じようにIpv6をIgnoreに変更、Automatically connectにチェックを付ける
 
-    <img src="../../images/install/install20.png">
+    <img src="../../images/install/centOS/install20.png">
 
 1. 戻ってQuit
 
-    <img src="../../images/install/install21.png">
+    <img src="../../images/install/centOS/install21.png">
 
 1. 変更を反映させる
 
