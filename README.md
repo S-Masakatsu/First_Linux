@@ -51,3 +51,10 @@ centOSでもbashが標準シェルで使われている。
 インストール方法は下記から
 
 - <a href="/Install/zsh/README.md">zshのインストールと設定</a>
+
+<h3 id="ttl3-3"> ● 基本的なコマンド</h3>
+
+下記ページでは基本的なコマンド操作を紹介。  
+詳しくは下記から。
+
+- <a href="/BasicCommands/README.md">基本的なコマンド</a>
