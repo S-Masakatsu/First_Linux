@@ -58,3 +58,10 @@ centOSでもbashが標準シェルで使われている。
 詳しくは下記から。
 
 - <a href="/BasicCommands/README.md">基本的なコマンド</a>
+
+<h3 id="ttl3-4"> ● 環境変数</h3>
+
+下記ページではLinuxの環境変数を紹介。  
+詳しくは下記から。
+
+- <a href="/EnvironmentVariable/README.md">環境変数</a>
