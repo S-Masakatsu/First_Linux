@@ -65,3 +65,10 @@ centOSでもbashが標準シェルで使われている。
 詳しくは下記から。
 
 - <a href="/EnvironmentVariable/README.md">環境変数</a>
+
+<h3 id="ttl3-5"> ● ファイルとディレクトリの操作</h3>
+
+下記ページではLinuxでのファイルとディレクトリの操作を紹介。  
+詳しくは下記から。
+
+- <a href="/FilesAndDirectories/README.md">ファイルとディレクトリの操作</a>
