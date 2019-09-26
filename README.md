@@ -87,4 +87,4 @@ Windowsを扱っているときはそれほど気にすることはないが、�
 下記ページでは、Linuxでのテキストエディタについて説明します。
 詳しくは下記から。
 
-- <a href="/TextEditor/README.md">パーミッション</a>
+- <a href="/TextEditor/README.md">テキストエディタ</a>
