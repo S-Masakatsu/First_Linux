@@ -72,3 +72,12 @@ centOSでもbashが標準シェルで使われている。
 詳しくは下記から。
 
 - <a href="/FilesAndDirectories/README.md">ファイルとディレクトリの操作</a>
+
+## ■ Linuxの権限
+
+Linuxのパーミッション(権限)とはファイルやディレクトリを開いたり編集したりするときの権限設定のことです。  
+Windowsを扱っているときはそれほど気にすることはないが、サーバー用に使われることが多いLinuxではとても大切な考え方になります。
+
+詳しくは、下記ページでご紹介します。
+
+- <a href="/Permission_Beginner/README.md">パーミッション</a>
