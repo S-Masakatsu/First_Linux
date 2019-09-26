@@ -118,6 +118,8 @@ macからssh接続できるように、ホストオンリーネットワーク�
     [root@localhost ~]# service NetworkManager restart
     # または
     [root@localhost ~]# service network restart
+    # または
+    [root@localhost ~]# systemctl restart network
     ```
 
 ## ５. SSH接続
