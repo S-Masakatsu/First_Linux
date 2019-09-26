@@ -127,4 +127,4 @@ Windowsを扱っているときはそれほど気にすることはないが、�
 ここではLinuxでのユーザー管理について紹介します。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/AboutServerConstruction/README.md">サーバー構築とは</a>
+- <a href="/UserManagement/README.md">ユーザー管理</a>
