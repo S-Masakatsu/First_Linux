@@ -27,4 +27,4 @@ Linuxにおいて、システムやサービスの設定を変更する方法は
 
 - [公式サイト：Nano](http://nano-editor.org/)
 
-<a href="../README.md">戻る➡︎</a>
+<a href="../../README.md">戻る➡︎</a>

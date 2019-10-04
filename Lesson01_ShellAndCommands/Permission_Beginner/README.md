@@ -163,4 +163,4 @@ drwxr-xr-x.  2 CentUser CentUser     6  6月 20 14:14 Sample
 
 - [chownコマンドの使い方](https://eng-entrance.com/linux-command-chown)
 
-<a href="../README.md">戻る➡︎</a>
+<a href="../../README.md">戻る➡︎</a>

@@ -54,4 +54,4 @@ $ echo $HISTSIZE
 $ echo export HISTSIZE=1000 >> ~/.bash_profile
 ```
 
-<a href="../README.md/#ttl3-4">戻る➡︎</a>
+<a href="../../README.md/#ttl3-4">戻る➡︎</a>

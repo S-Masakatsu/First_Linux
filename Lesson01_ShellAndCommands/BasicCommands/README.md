@@ -130,4 +130,4 @@ $ ls /etc/h*
 $ ls /etc/h????
 ```
 
-<a href="../README.md/#ttl3-3">戻る➡︎</a>
+<a href="../../README.md/#ttl3-3">戻る➡︎</a>

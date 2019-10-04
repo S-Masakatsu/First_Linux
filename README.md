@@ -57,21 +57,21 @@ centOSでもbashが標準シェルで使われている。
 下記ページでは基本的なコマンド操作を紹介。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/BasicCommands/README.md">基本的なコマンド</a>
+- <a href="/Lesson01_ShellAndCommands/BasicCommands/README.md">基本的なコマンド</a>
 
 <h3 id="ttl3-4"> ● 環境変数</h3>
 
 下記ページではLinuxの環境変数を紹介。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/EnvironmentVariable/README.md">環境変数</a>
+- <a href="/Lesson01_ShellAndCommands/EnvironmentVariable/README.md">環境変数</a>
 
 <h3 id="ttl3-5"> ● ファイルとディレクトリの操作</h3>
 
 下記ページではLinuxでのファイルとディレクトリの操作を紹介。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/FilesAndDirectories/README.md">ファイルとディレクトリの操作</a>
+- <a href="/Lesson01_ShellAndCommands/FilesAndDirectories/README.md">ファイルとディレクトリの操作</a>
 
 ### ● Linuxの権限
 
@@ -80,14 +80,14 @@ Windowsを扱っているときはそれほど気にすることはないが、�
 
 詳しくは、下記ページでご紹介します。
 
-- <a href="/Permission_Beginner/README.md">パーミッション</a>
+- <a href="/Lesson01_ShellAndCommands/Permission_Beginner/README.md">パーミッション</a>
 
 ### ● テキストエディタ
 
 下記ページでは、Linuxでのテキストエディタについて説明します。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/TextEditor/README.md">テキストエディタ</a>
+- <a href="/Lesson01_ShellAndCommands/TextEditor/README.md">テキストエディタ</a>
 
 ## ■ ネットワークの基本と設定
 
@@ -120,14 +120,14 @@ Windowsを扱っているときはそれほど気にすることはないが、�
 ここではサーバー構築の流れや基本的な知識について紹介します。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/AboutServerConstruction/README.md">サーバー構築とは</a>
+- <a href="/Lesson03_Server/AboutServerConstruction/README.md">サーバー構築とは</a>
 
 ### ● ユーザー管理
 
 ここではLinuxでのユーザー管理について紹介します。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/UserManagement/README.md">ユーザー管理</a>
+- <a href="/Lesson03_Server/UserManagement/README.md">ユーザー管理</a>
 
 ### ● ソフトウェアのインストールとアップデート
 
@@ -141,4 +141,4 @@ Windowsを扱っているときはそれほど気にすることはないが、�
 ここではLinuxでの基本的なサーバー管理について紹介します。  
 詳しくは、下記ページでご紹介します。
 
-- <a href="/ServerManagement/README.md">基本的なサーバー管理</a>
+- <a href="/Lesson03_Server/ServerManagement/README.md">基本的なサーバー管理</a>

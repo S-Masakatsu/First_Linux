@@ -79,4 +79,4 @@ $ sudo shutdown -r now
 # less /var/log/secure
 ```
 
-<a href="../README.md">戻る➡︎</a>
+<a href="../../README.md">戻る➡︎</a>
