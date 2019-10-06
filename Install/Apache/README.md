@@ -41,4 +41,25 @@ $ sudo yum -y install httpd
 
 インストールができました。
 
+## ■ インストールの確認
+
+以下のコマンドで確認できる。
+
+``` shell
+$ sudo yum list installed | grep httpd
+
+httpd.x86_64                          2.4.6-90.el7.centos              @base
+```
+
+また、以下のように実行することでインストールパスを確認できる。
+
+``` shell
+$ which httpd
+
+/usr/sbin/httpd
+```
+
+実行結果として上記のようにhttpdのパスである「`/usr/sbin/httpd`」が表示されることを確認する。  
+これでhttpdのインストールが正常に終了したことが確認できる。  
+
 <a href="../../README.md">戻る➡︎</a>
