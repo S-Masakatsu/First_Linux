@@ -77,7 +77,6 @@ $ free
 
 <img src="../../images/ServerManagement/free.png" width="600">
 
-
 kバイト単位では見にくいので、見やすいように`-h` オプションをつけます。  
 Memがメモリで、Swapはスワップの利用状況です。
 
@@ -143,6 +142,10 @@ root       4681  0.5  0.5 158864  5648 ?        Ss   18:32   0:00 sshd: centuser
 centuser+  4685  0.0  0.2 158864  2296 ?        S    18:32   0:00 sshd: centuser@pts/0
 centuser+  4874  0.0  0.0 112724   988 pts/0    R+   18:32   0:00 grep --color=auto ssh
 ```
+
+詳しくは下記、外部ページを参照してください。
+
+- [psコマンドの使い方](https://eng-entrance.com/linux_command_ps)
 
 ## ■ システムの状態をモニタ
 
