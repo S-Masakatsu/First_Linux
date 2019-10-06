@@ -26,7 +26,7 @@ Linuxでは、ディレクトリがツリー状の階層構造(ディレクト�
 全てのディレクトリの頂点、つまりディレクトリのトップをルートディレクトリといいます。ルートディレクトリは「`/`」で表します。
 
 - Linuxの主なディレクトリ  
-    <img src="../../images/File_and_Directory/faile_and_directory01.png" width="500px">
+    <img src="../../images/File_and_Directory/faile_and_directory01.png" width="600px">
 
 ファイルやディレクトリの場所はパスで表します。  
 ルートディレクトリを起点として表す絶対パスと、カレントディレクトリを起点として表す相対パスがある。  

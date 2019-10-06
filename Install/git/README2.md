@@ -47,7 +47,7 @@ gitのソースコードをダウンロードします。
 
 - [Releases git/git](https://github.com/git/git/releases)
 
-<img src="../../images/install/git/install01.png">
+<img src="../../images/install/git/install01.png" width="600">
 
 最新版の Tarball のダウンロードリンクをコピーします。  
 上記の画像の例では、v2.23.0 が最新版なので、v2.23.0 の tar.gz のリンクをコピーします。  

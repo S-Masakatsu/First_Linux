@@ -31,7 +31,7 @@ Linuxではコマンド操作基本です。コマンドの実態はプログラ
 もっとも広く使われているのがbashである。  
 centOSでもbashが標準シェルで使われている。
 
-<img src="./images/index/index01.png">
+<img src="./images/index/index01.png" width="600">
 
 ### ● シェルの種類
 

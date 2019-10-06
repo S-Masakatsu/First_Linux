@@ -49,7 +49,7 @@ load averageの欄に着目してください。3つの数値が並んでいま�
 $ df
 ```
 
-<img src="../../images/ServerManagement/df.png">
+<img src="../../images/ServerManagement/df.png" width="600">
 
 ファイルシステム(パーティション)ごとに表示されます。  
 バイト単位で見づらいので、M・Gバイト単位で見やすくするよう`-h` オプションをつけて実行します。
@@ -58,7 +58,7 @@ $ df
 $ df -h
 ```
 
-<img src="../../images/ServerManagement/df_h.png">
+<img src="../../images/ServerManagement/df_h.png" width="600">
 
 
 左側にtmpfs とありますが、このような文字が含まれる行は仮想敵なファイルシステムなので無視して構いません。  
@@ -75,7 +75,7 @@ $ df -h
 $ free
 ```
 
-<img src="../../images/ServerManagement/free.png">
+<img src="../../images/ServerManagement/free.png" width="600">
 
 
 kバイト単位では見にくいので、見やすいように`-h` オプションをつけます。  
@@ -85,7 +85,7 @@ Memがメモリで、Swapはスワップの利用状況です。
 $ free -h
 ```
 
-<img src="../../images/ServerManagement/free_h.png">
+<img src="../../images/ServerManagement/free_h.png" width="600">
 
 - free 表示項目
 
@@ -153,7 +153,7 @@ centuser+  4874  0.0  0.0 112724   988 pts/0    R+   18:32   0:00 grep --color=a
 $ top
 ```
 
-<img src="../../images/ServerManagement/top.png">
+<img src="../../images/ServerManagement/top.png" width="600">
 
 １行目が`uptime` コマンドの実行結果、  
 ４〜５行目が`free` コマンドの実行結果、  
