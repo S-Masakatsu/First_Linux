@@ -154,3 +154,10 @@ Apacheをインストールし、設定を変更します。また、パスワ�
 詳しくは、下記ページでご紹介します。
 
 - <a href="/Install/Apache/README.md">Apacheのインストール</a>
+
+### ● Apacheの基本
+
+ここではApacheの基本について紹介します。  
+詳しくは、下記ページでご紹介します。
+
+- <a href="/Lesson04_Apache/ApacheBasics/README.md">Apacheの基本</a>
