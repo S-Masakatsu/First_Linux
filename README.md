@@ -161,3 +161,10 @@ Apacheをインストールし、設定を変更します。また、パスワ�
 詳しくは、下記ページでご紹介します。
 
 - <a href="/Lesson04_Apache/ApacheBasics/README.md">Apacheの基本</a>
+
+### ● パスワード認証の設定
+
+ここではパスワード認証の設定について紹介します。  
+詳しくは、下記ページでご紹介します。
+
+- <a href="/Lesson04_Apache/PasswordSetting/README.md">パスワード認証の設定</a>
